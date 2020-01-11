@@ -1,1 +1,121 @@
-
+[{
+    "Id": "id_5e1933c1cd24f",
+    "TypeOfAnimal": "Cow",
+    "ProductQuantity": 11
+},{
+    "Id": "id_5e1933c1cd49a",
+    "TypeOfAnimal": "Cow",
+    "ProductQuantity": 10
+},{
+    "Id": "id_5e1933c1cd6c2",
+    "TypeOfAnimal": "Cow",
+    "ProductQuantity": 8
+},{
+    "Id": "id_5e1933c1cd8fd",
+    "TypeOfAnimal": "Cow",
+    "ProductQuantity": 8
+},{
+    "Id": "id_5e1933c1cdad6",
+    "TypeOfAnimal": "Cow",
+    "ProductQuantity": 11
+},{
+    "Id": "id_5e1933c1cdce5",
+    "TypeOfAnimal": "Cow",
+    "ProductQuantity": 9
+},{
+    "Id": "id_5e1933c1cdf12",
+    "TypeOfAnimal": "Cow",
+    "ProductQuantity": 10
+},{
+    "Id": "id_5e1933c1ce13f",
+    "TypeOfAnimal": "Cow",
+    "ProductQuantity": 12
+},{
+    "Id": "id_5e1933c1ce73e",
+    "TypeOfAnimal": "Cow",
+    "ProductQuantity": 9
+},{
+    "Id": "id_5e1933c1ceeec",
+    "TypeOfAnimal": "Cow",
+    "ProductQuantity": 8
+},{
+    "Id": "id_5e1933d2579d0",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 1
+},{
+    "Id": "id_5e1933d257b72",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 1
+},{
+    "Id": "id_5e1933d257d4e",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 0
+},{
+    "Id": "id_5e1933d257f39",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 0
+},{
+    "Id": "id_5e1933d2580a8",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 1
+},{
+    "Id": "id_5e1933d258311",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 1
+},{
+    "Id": "id_5e1933d258a44",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 0
+},{
+    "Id": "id_5e1933d258f63",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 0
+},{
+    "Id": "id_5e1933d259459",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 0
+},{
+    "Id": "id_5e1933d2596a8",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 0
+},{
+    "Id": "id_5e1933d25980b",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 1
+},{
+    "Id": "id_5e1933d259a08",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 0
+},{
+    "Id": "id_5e1933d259bac",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 0
+},{
+    "Id": "id_5e1933d259d82",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 1
+},{
+    "Id": "id_5e1933d259eda",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 0
+},{
+    "Id": "id_5e1933d25a067",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 1
+},{
+    "Id": "id_5e1933d25a23e",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 0
+},{
+    "Id": "id_5e1933d25a36c",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 0
+},{
+    "Id": "id_5e1933d25a4c4",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 0
+},{
+    "Id": "id_5e1933d25a5fb",
+    "TypeOfAnimal": "Chicken",
+    "ProductQuantity": 1
+}]
